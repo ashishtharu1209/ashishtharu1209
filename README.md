@@ -1,4 +1,4 @@
-![logo](https://imgs.search.brave.com/puWtB9qGgkhn-fGcEDJDzsgfxub5TX6Mx035Ab38r-Q/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTIx/OTg1NDIyMS9waG90/by93ZWItZGVzaWdu/LWRldmVsb3BtZW50/LWFuZC1jb2Rpbmct/Y29uY2VwdC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9RnFT/amRSaDZzdWJMX1VN/U3B1WHhlUnB2a3Qx/a3J4VWl5Q1FaMXdz/N3JPaz0)
+![logo](https://github.com/ashishtharu1209/ashishtharu1209/blob/main/hello.gif)
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar Tharu</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
