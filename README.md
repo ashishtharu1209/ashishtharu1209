@@ -1,7 +1,7 @@
 ![logo](https://github.com/ashishtharu1209/ashishtharu1209/blob/main/hello.gif)
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar Tharu</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">Enthusiastic beginner in DevOps</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishtharu1209&label=Profile%20views&color=0e75b6&style=flat" alt="ashishtharu1209" /> </p>
