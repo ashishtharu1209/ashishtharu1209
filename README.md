@@ -9,11 +9,11 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
-- 🔭 I’m currently working on **React js**
+- 🔭 I’m currently working on **Not Working**
 
-- 🌱 I’m currently learning **React js,node js**
+- 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **react js**
+- 💬 Ask me about **linux,docker,nginx etc**
 
 - 📫 How to reach me **ashishtharu0824@gmail.com**
 
