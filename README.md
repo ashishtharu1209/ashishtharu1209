@@ -1,4 +1,4 @@
-![logo](https://github.com/ashishtharu1209/ashishtharu1209/blob/main/hello.gif)
+![logo](https://github.com/ashishtharu1209/ashishtharu1209/blob/main/7040951.jpg)
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar Tharu</h1>
 <h3 align="center">Enthusiastic beginner in DevOps</h3>
